@@ -36,7 +36,7 @@ Jumping from views to controllers to models can be really painful. Here's where 
 You see? You don't have to
 set file extension or whole path, just add name of your controller and name of your view file.
 
-Similarily you can edit controller too:
+Similarly you can edit controller too:
 
 {% highlight vim %}
 :Econtroller static_pages
@@ -65,7 +65,7 @@ To run rails server within background of Vim you will use Rserver command.
 
 Of course syntax highlighting is included too. Vim-rails has built syntax highlighting for special Active Record methods and all keywords that Rails has unique.
 
-That's only small part of what plugin provides, to see list of all commands, go to [project documentation](https://raw.githubusercontent.com/tpope/vim-rails/master/doc/rails.txt). For example, it provides commands forrefactoring your code, it has built support for Rake and other.
+That's only small part of what plugin provides, to see list of all commands, go to [project documentation](https://raw.githubusercontent.com/tpope/vim-rails/master/doc/rails.txt). For example, it provides commands for refactoring your code, it has built support for Rake and other.
 
 ## 2. [NerdTree](https://github.com/scrooloose/nerdtree)
 
